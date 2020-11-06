@@ -1,2 +1,2 @@
 # Flutter
-This repository is for my Flutter projects. Thanks to Udemy and Angela Yu at the London App Brewery. 
+This is a virtual business card created following a tutorial from the London App Brewery. 
